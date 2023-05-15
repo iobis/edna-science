@@ -44,7 +44,12 @@ From [Global determinants of freshwater and marine fish genetic diversity](https
 
 ![manel_2020_2](images/manel_2020_2.png)
 
-## Multidimensional scaling
+From [The distribution of coastal fish eDNA sequences in the Anthropocene](https://onlinelibrary.wiley.com/doi/full/10.1111/geb.13698):
+
+![mathon_2023_1](images/mathon_2023_1.png)
+
+
+## Multidimensional analysis
 
 From [Marine environmental DNA biomonitoring reveals seasonal patterns in biodiversity and identifies ecosystem responses to anomalous climatic events](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007943):
 
@@ -57,6 +62,10 @@ to quantitatively assess fish
 community](https://www.nature.com/articles/s41598-022-25274-3):
 
 ![tsuji_2022_4](images/tsuji_2022_4.png)
+
+From [The distribution of coastal fish eDNA sequences in the Anthropocene](https://onlinelibrary.wiley.com/doi/full/10.1111/geb.13698):
+
+![mathon_2023_2](images/mathon_2023_2.png)
 
 ## Rarefaction and accumulation curves
 
