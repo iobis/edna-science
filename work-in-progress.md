@@ -1,5 +1,5 @@
 # Data viz work in progress for the eDNA project
 
 ### SST analysis
-- https://github.com/iobis/marineheritage_sst
-- https://iobis.github.io/marineheritage_sst
+- https://github.com/iobis/marineheritage-sst
+- https://iobis.github.io/marineheritage-sst
